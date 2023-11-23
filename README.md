@@ -12,8 +12,7 @@ I Love code !! ❤
 * ⚡  I have a cat named Leo
 
 <div > 
-  <a href="mailto:pedro.abdsamad.mesrar.9@gmail.com
-">
+  <a href="mailto:pedro.sales.abdsamad.mesrar.9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
