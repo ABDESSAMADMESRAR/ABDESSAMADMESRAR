@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Mesrar
 =========================================================================================================================================
 
-Junior Front End Développer
+Junior Front End Développer && UI/UX Design 🎨
 ---------------------------
 
 I Love code !! ❤
@@ -24,7 +24,8 @@ I Love code !! ❤
 <h2 >⚒️ design AND edit videos ⚒️</h2>
 <br/>
 <div >
-    <img src="https://skillicons.dev/icons?i=photoshop" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+      <img src="https://skillicons.dev/icons?i=photoshop" />
     <img src="https://skillicons.dev/icons?i=premiere" /><br>
 </div>
 <h2 >⚒️ social media⚒️</h2>
