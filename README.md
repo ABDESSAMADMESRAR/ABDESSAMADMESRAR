@@ -27,7 +27,7 @@ I Love code !! ❤
     <img src="https://skillicons.dev/icons?i=figma" />
       <img src="https://skillicons.dev/icons?i=photoshop" />
     <img src="https://skillicons.dev/icons?i=premiere" /><br>
-      <img src="https://skillicons.dev/icons?i=canva" /><br>
+      <img src="https://skillicons.dev/icons?i=canva" />
 
 </div>
 <h2 >⚒️ social media⚒️</h2>
