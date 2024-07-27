@@ -18,7 +18,7 @@ I Love code !! ❤
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div >
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery" /><br>
 </div>
 <h2 >⚒️ design AND edit videos ⚒️</h2>
