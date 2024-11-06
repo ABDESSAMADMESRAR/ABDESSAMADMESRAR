@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Mesrar
 =========================================================================================================================================
 
-UI/UX, Front-end Developer, Video Editor---------------------------
+UI/UX, Front-end Developer, Video Editor
+------------------------------------------------------
 
 I Love code !! ❤
-  <img  align="right"  width="400" src="![ssss](https://github.com/user-attachments/assets/0317dd25-40ff-4cfc-8294-5a78162371f0)
+  <img  align="right"  width="400" src="[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 " >
 * 🌍  I'm based in safi morocco 🇲🇦
 * ✉️  You can contact me at [adessamadmesrar@gmail.com](mailto:adessamadmesrar@gmail.com)
