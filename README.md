@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI/UX, Front-end Developer, Video Editor---------------------------
 
 I Love code !! ❤
-  <img  align="right"  width="400" src="![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495](https://github.com/user-attachments/assets/7714fb53-29e4-412d-a1f0-678b626914d7)
-" alt="coding">
+  <img  align="right"  width="400" src="![ssss](https://github.com/user-attachments/assets/0317dd25-40ff-4cfc-8294-5a78162371f0)
+" >
 * 🌍  I'm based in safi morocco 🇲🇦
 * ✉️  You can contact me at [adessamadmesrar@gmail.com](mailto:adessamadmesrar@gmail.com)
 * 🤝  I'm open to collaborating on Other drone projects!
