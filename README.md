@@ -27,7 +27,7 @@ I Love code !! ❤
 <div >
     <img src="https://skillicons.dev/icons?i=figma" />
       <img src="https://skillicons.dev/icons?i=photoshop" />
-        <img src="https://skillicons.dev/icons?i=Illustrator" />
+        <img src="https://skillicons.dev/icons?i=ai" />
                 <img src="https://skillicons.dev/icons?i=InDesign" />
     <img src="https://skillicons.dev/icons?i=premiere" /><br>
     
