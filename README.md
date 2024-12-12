@@ -30,8 +30,10 @@ I Love code !! ❤
         <img src="https://skillicons.dev/icons?i=ai" />
                 <img src="https://skillicons.dev/icons?i=InDesign" />
     <img src="https://skillicons.dev/icons?i=premiere" /><br>
+        <img src="https://skillicons.dev/icons?i=Id" /><br>
+
     
-    <img src="https://skillicons.dev/icons?i=InDesign" />
+  
 
 </div>
 <h2 >⚒️ social media⚒️</h2>
