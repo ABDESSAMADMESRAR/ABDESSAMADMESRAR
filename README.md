@@ -16,7 +16,7 @@ I Love code !! ❤
 
  <hr/>
  
-<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 >⚒️ My skills ⚒️</h2>
 <br/>
 <div >
     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,github,tailwind,git,nextjs" />
