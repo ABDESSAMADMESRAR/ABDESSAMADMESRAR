@@ -19,7 +19,7 @@ I Love code !! ❤
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div >
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,github,tailwind,git,nextjs" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,wordpress" /><br>
 </div>
 <h2 >⚒️ design AND edit videos ⚒️</h2>
@@ -27,8 +27,10 @@ I Love code !! ❤
 <div >
     <img src="https://skillicons.dev/icons?i=figma" />
       <img src="https://skillicons.dev/icons?i=photoshop" />
+        <img src="https://skillicons.dev/icons?i=Illustrator" />
+                <img src="https://skillicons.dev/icons?i=InDesign" />
     <img src="https://skillicons.dev/icons?i=premiere" /><br>
-      <img src="https://skillicons.dev/icons?i=canva" />
+    
 
 </div>
 <h2 >⚒️ social media⚒️</h2>
