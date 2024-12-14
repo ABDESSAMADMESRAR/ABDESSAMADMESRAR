@@ -22,9 +22,11 @@ Figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow" />
 </p>
 <h2 >⚒️ My skills ⚒️</h2>
 <br/>
-<div >
- 
-</div>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
  <hr/>
 <h2 >⚒️ social media⚒️</h2>
 <br/>
