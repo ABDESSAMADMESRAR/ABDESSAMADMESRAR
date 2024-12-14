@@ -16,7 +16,7 @@ I Love code !! ❤
  <hr/>
  <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim,indesign" />
   </a>
 </p>
 <h2 >⚒️ My skills ⚒️</h2>
