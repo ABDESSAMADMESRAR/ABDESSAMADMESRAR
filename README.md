@@ -5,8 +5,7 @@ UI/UX Design, Front-end Developer, Video Editor
 ------------------------------------------------------
 
 I Love code !! ❤
-  <img  align="right"  width="400" src="[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-" >
+
 * 🌍  I'm based in safi morocco 🇲🇦
 * ✉️  You can contact me at [adessamadmesrar@gmail.com](mailto:adessamadmesrar@gmail.com)
 * 🤝  I'm open to collaborating on Other drone projects!
@@ -27,7 +26,6 @@ I Love code !! ❤
 <div >
  
 
-    <img src="https://github.com/user-attachments/assets/d343312c-c162-4a26-b306-f05d94323a8c" />
       <img src="https://skillicons.dev/icons?i=photoshop" />
         <img src="https://skillicons.dev/icons?i=ai" />
                 <img src="https://skillicons.dev/icons?i=InDesign" />
