@@ -31,10 +31,12 @@ I Love code !! ❤
  <a href="https://www.linkedin.com/in/abdessamad-mesrar/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin",flutter&perline=6" />
   </a>
-   <a href="https://www.linkedin.com/in/abdessamad-mesrar/">
+   <a href="https://x.com/ABDESSAMAD51194">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter",flutter&perline=6" />
   </a>
-
+  <a href="https://www.behance.net/e4a323df">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=behance",flutter&perline=6" />
+  </a>
   
 <div >
   <h2>🐍 My Contributions 🐍</h2>
