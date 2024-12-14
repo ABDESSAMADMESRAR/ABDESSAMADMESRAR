@@ -19,7 +19,7 @@ I Love code !! ❤
 <br/>
 <p align="">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress,figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow",flutter&perline=6" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,mysql,git,github,wordpress,figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow",flutter&perline=6" />
   </a>
 </p>
  <hr/>
