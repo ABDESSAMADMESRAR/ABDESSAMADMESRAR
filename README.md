@@ -9,9 +9,9 @@ I Love code !! ❤
 * 🌍  I'm based in safi morocco 🇲🇦
 * ✉️  You can contact me at [adessamadmesrar@gmail.com](mailto:adessamadmesrar@gmail.com)
 * 🤝  I'm open to collaborating on Other drone projects!
-  
+  <img width="50px" align="right" alt="coding" src="https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044">
+
  <hr/>
-<img align="right" alt="coding" src="https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044">
 
 <h2 >⚒️ My skills ⚒️</h2>
 <br/>
