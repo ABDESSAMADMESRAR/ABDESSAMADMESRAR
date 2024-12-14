@@ -31,6 +31,9 @@ I Love code !! ❤
  <a href="https://www.linkedin.com/in/abdessamad-mesrar/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin",flutter&perline=6" />
   </a>
+   <a href="https://www.linkedin.com/in/abdessamad-mesrar/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter",flutter&perline=6" />
+  </a>
 
   
 <div >
