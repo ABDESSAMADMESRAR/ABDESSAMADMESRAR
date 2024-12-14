@@ -11,7 +11,7 @@ I Love code !! ❤
 * 🤝  I'm open to collaborating on Other drone projects!
   
  <hr/>
-<img align="right" alt="coding" src="![code](https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044)">
+<img align="right" alt="coding" src="https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044">
 
 <h2 >⚒️ My skills ⚒️</h2>
 <br/>
