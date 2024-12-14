@@ -25,8 +25,7 @@ I Love code !! ❤
  <hr/>
 <h2 >⚒️ social media⚒️</h2>
 <br/>
-
- <a href="https://go-skill-icons.vercel.app/">
+ <a href="[https://go-skill-icons.vercel.app/](https://www.instagram.com/abdessamad.mesrar__02/)">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram",flutter&perline=6" />
   </a>
 
