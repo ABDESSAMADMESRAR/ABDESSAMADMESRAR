@@ -27,7 +27,7 @@ I Love code !! ❤
 <div >
  
 
-    <img src=" ![image](https://github.com/user-attachments/assets/d343312c-c162-4a26-b306-f05d94323a8c)" />
+    <img src="https://github.com/user-attachments/assets/d343312c-c162-4a26-b306-f05d94323a8c" />
       <img src="https://skillicons.dev/icons?i=photoshop" />
         <img src="https://skillicons.dev/icons?i=ai" />
                 <img src="https://skillicons.dev/icons?i=InDesign" />
