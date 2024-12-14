@@ -14,31 +14,19 @@ I Love code !! ❤
 
 
  <hr/>
- <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim,indesign" />
-  </a>
-</p>
+
 <h2 >⚒️ My skills ⚒️</h2>
 <br/>
 <div >
+   <p >
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind," />
+  </a>
+</p>
     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,github,tailwind,git,nextjs" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,wordpress" /><br>
 </div>
-<h2 >⚒️ design AND edit videos ⚒️</h2>
-<br/>
-<div >
- 
-
-      <img src="https://skillicons.dev/icons?i=photoshop" />
-        <img src="https://skillicons.dev/icons?i=ai" />
-                <img src="https://skillicons.dev/icons?i=InDesign" />
-    <img src="https://skillicons.dev/icons?i=premiere" /><br>
-
-    
-  
-
-</div>
+ <hr/>
 <h2 >⚒️ social media⚒️</h2>
 <br/>
 <div >
