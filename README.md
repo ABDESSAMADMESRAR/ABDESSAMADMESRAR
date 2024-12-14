@@ -20,11 +20,10 @@ I Love code !! ❤
 <div >
    <p >
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,Mysql,git,github,wordpress" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress,
+Figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow" />
   </a>
 </p>
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,github,tailwind,git,nextjs" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,wordpress" /><br>
 </div>
  <hr/>
 <h2 >⚒️ social media⚒️</h2>
