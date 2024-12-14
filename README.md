@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 UI/UX Design, Front-end Developer, Video Editor
 ------------------------------------------------------
-  <img  width="200px" align="right" alt="coding" src="https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044">
+  <img  width="500px" align="right" alt="coding" src="https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044">
 
 I Love code !! ❤
 
