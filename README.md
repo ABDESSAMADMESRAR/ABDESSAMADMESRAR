@@ -14,16 +14,16 @@ I Love code !! ❤
 
 
  <hr/>
-
-<h2 >⚒️ My skills ⚒️</h2>
-<br/>
-<div >
-   <p align="center">
+  <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress,
 Figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow" />
   </a>
 </p>
+<h2 >⚒️ My skills ⚒️</h2>
+<br/>
+<div >
+ 
 </div>
  <hr/>
 <h2 >⚒️ social media⚒️</h2>
