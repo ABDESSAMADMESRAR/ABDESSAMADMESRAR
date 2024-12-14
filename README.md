@@ -25,7 +25,7 @@ Figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow" />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress,react,redux,nextjs,git,github,wordpress,flutter&perline=3" />
   </a>
 </p>
  <hr/>
