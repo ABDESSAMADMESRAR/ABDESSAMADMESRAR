@@ -17,7 +17,6 @@ I Love code !! ❤
 
 <h2 >⚒️ My skills ⚒️</h2>
 <br/>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
 <p align="">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress,figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow",flutter&perline=6" />
@@ -26,10 +25,10 @@ I Love code !! ❤
  <hr/>
 <h2 >⚒️ social media⚒️</h2>
 <br/>
-<div >
-   </a> <a href="http://www.instagram.com/abdessamad_mesrar_02/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdessamad-mesrar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ABDESSAMAD51194" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@abdessamad_mesrar_02" target="_blank" rel="noreferrer">  </a></p>
-</div>
 
+ <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram",flutter&perline=6" />
+  </a>
 
   
 <div >
