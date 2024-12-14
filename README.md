@@ -25,6 +25,8 @@ I Love code !! ❤
 <h2 >⚒️ design AND edit videos ⚒️</h2>
 <br/>
 <div >
+  ![image](https://github.com/user-attachments/assets/d343312c-c162-4a26-b306-f05d94323a8c)
+
     <img src="https://skillicons.dev/icons?i=figma" />
       <img src="https://skillicons.dev/icons?i=photoshop" />
         <img src="https://skillicons.dev/icons?i=ai" />
