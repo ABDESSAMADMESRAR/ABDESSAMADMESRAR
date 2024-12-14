@@ -18,7 +18,7 @@ I Love code !! ❤
 <h2 >⚒️ My skills ⚒️</h2>
 <br/>
 <div >
-   <p >
+   <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,javascript,typescript,jquery,react,redux,nextjs,git,github,wordpress,
 Figma,illustrator,indesign,canva,premiere,photoshop,miro,webflow" />
