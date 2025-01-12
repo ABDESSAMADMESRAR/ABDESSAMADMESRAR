@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI/UX Design| Front-end Developer| Video Editor|Graphic designer 
 --------------------------------------------------------------------
 
-I Love code !! ❤
 
 * 🌍  I'm based in safi morocco 🇲🇦
 * ✉️  You can contact me at [adessamadmesrar@gmail.com](mailto:adessamadmesrar@gmail.com)
