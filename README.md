@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<b>My name is Abdessamad Mesrar</b>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1><b>My name is Abdessamad Mesrar</b> </h1>
 
  <hr/>
   <img  width="500px" align="right" alt="coding" src="https://github.com/user-attachments/assets/a4ca570f-88d1-4d5f-a4bf-28216fd9d044">
